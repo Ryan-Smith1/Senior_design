@@ -1,0 +1,4 @@
+module Crypto {
+    header "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/Crypto.build/Crypto-Swift.h"
+    requires objc
+}

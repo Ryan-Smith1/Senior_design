@@ -1,0 +1,4 @@
+module CNIOExtrasZlib {
+    umbrella header "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-nio-extras/Sources/CNIOExtrasZlib/include/CNIOExtrasZlib.h"
+    export *
+}

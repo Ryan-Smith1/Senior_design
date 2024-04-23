@@ -1,0 +1,4 @@
+module CAsyncHTTPClient {
+    umbrella header "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/async-http-client/Sources/CAsyncHTTPClient/include/CAsyncHTTPClient.h"
+    export *
+}

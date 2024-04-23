@@ -1,0 +1,4 @@
+module Logging {
+    header "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/Logging.build/Logging-Swift.h"
+    requires objc
+}

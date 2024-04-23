@@ -1,0 +1,4 @@
+module FluentKit {
+    header "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/FluentKit.build/FluentKit-Swift.h"
+    requires objc
+}

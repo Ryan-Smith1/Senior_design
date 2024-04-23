@@ -1,0 +1,89 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/master.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/ConnectionPool+Postgres.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/ConnectionPool+Postgres.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/ConnectionPool+Postgres.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/ConnectionPool+Postgres~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/ConnectionPool+Postgres.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresColumnType.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresColumnType.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresColumnType.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresColumnType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresColumnType.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresConfiguration.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresConfiguration.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresConfiguration.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresConfiguration.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresConnectionSource+PostgresConfiguration.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresConnectionSource+PostgresConfiguration.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresConnectionSource+PostgresConfiguration.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresConnectionSource+PostgresConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresConnectionSource+PostgresConfiguration.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataDecoder.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDataDecoder.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDataDecoder.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDataDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDataDecoder.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataEncoder.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDataEncoder.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDataEncoder.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDataEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDataEncoder.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDatabase+SQL+Deprecated.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDatabase+SQL+Deprecated.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDatabase+SQL+Deprecated.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDatabase+SQL+Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Deprecations/PostgresDatabase+SQL+Deprecated.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/Exports.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Exports.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Exports.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/Exports.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConnectionSource.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresConnectionSource.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresConnectionSource.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresConnectionSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresConnectionSource.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataTranslation.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDataTranslation.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDataTranslation.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDataTranslation~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDataTranslation.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDatabase+SQL.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDatabase+SQL.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDatabase+SQL.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDatabase+SQL~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDatabase+SQL.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDialect.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDialect.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDialect.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDialect~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresDialect.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresRow+SQL.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresRow+SQL.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresRow+SQL.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresRow+SQL~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresRow+SQL.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/postgres-kit/Sources/PostgresKit/SQLPostgresConfiguration.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/SQLPostgresConfiguration.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/SQLPostgresConfiguration.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/SQLPostgresConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/PostgresKit.build/SQLPostgresConfiguration.swiftdeps"
+  }
+}

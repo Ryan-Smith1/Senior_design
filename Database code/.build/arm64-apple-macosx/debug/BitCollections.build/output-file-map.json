@@ -1,0 +1,359 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/master.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+BitwiseOperations.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+BitwiseOperations.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+BitwiseOperations.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+BitwiseOperations~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+BitwiseOperations.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+ChunkedBitsIterators.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ChunkedBitsIterators.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ChunkedBitsIterators.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ChunkedBitsIterators~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ChunkedBitsIterators.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Codable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Codable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Codable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Codable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Codable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Collection.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Collection.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Collection.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Collection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Collection.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Copy.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Copy.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Copy.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Copy~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Copy.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+CustomReflectable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+CustomReflectable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+CustomReflectable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+CustomReflectable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+CustomReflectable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Descriptions.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Descriptions.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Descriptions.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Descriptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Descriptions.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Equatable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Equatable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Equatable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Equatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Equatable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+ExpressibleByArrayLiteral.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ExpressibleByArrayLiteral.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ExpressibleByArrayLiteral.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ExpressibleByArrayLiteral~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ExpressibleByArrayLiteral.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+ExpressibleByStringLiteral.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ExpressibleByStringLiteral.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ExpressibleByStringLiteral.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ExpressibleByStringLiteral~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+ExpressibleByStringLiteral.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Extras.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Extras.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Extras.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Extras~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Extras.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Fill.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Fill.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Fill.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Fill~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Fill.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Hashable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Hashable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Hashable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Hashable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Hashable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Initializers.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Initializers.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Initializers.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Initializers~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Initializers.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Invariants.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Invariants.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Invariants.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Invariants~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Invariants.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+LosslessStringConvertible.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+LosslessStringConvertible.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+LosslessStringConvertible.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+LosslessStringConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+LosslessStringConvertible.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+RandomBits.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+RandomBits.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+RandomBits.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+RandomBits~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+RandomBits.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+RangeReplaceableCollection.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+RangeReplaceableCollection.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+RangeReplaceableCollection.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+RangeReplaceableCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+RangeReplaceableCollection.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Shifts.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Shifts.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Shifts.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Shifts~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Shifts.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Testing.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Testing.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Testing.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Testing~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray+Testing.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray._UnsafeHandle.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray._UnsafeHandle.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray._UnsafeHandle.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray._UnsafeHandle~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray._UnsafeHandle.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitArray/BitArray.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+BidirectionalCollection.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+BidirectionalCollection.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+BidirectionalCollection.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+BidirectionalCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+BidirectionalCollection.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Codable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Codable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Codable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Codable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Codable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+CustomDebugStringConvertible.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomDebugStringConvertible.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomDebugStringConvertible.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomDebugStringConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomDebugStringConvertible.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+CustomReflectable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomReflectable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomReflectable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomReflectable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomReflectable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+CustomStringConvertible.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomStringConvertible.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomStringConvertible.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomStringConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+CustomStringConvertible.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Equatable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Equatable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Equatable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Equatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Equatable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+ExpressibleByArrayLiteral.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+ExpressibleByArrayLiteral.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+ExpressibleByArrayLiteral.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+ExpressibleByArrayLiteral~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+ExpressibleByArrayLiteral.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Extras.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Extras.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Extras.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Extras~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Extras.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Hashable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Hashable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Hashable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Hashable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Hashable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Initializers.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Initializers.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Initializers.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Initializers~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Initializers.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Invariants.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Invariants.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Invariants.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Invariants~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Invariants.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Random.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Random.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Random.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Random.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra basics.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra basics.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra basics.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra basics~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra basics.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra conformance.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra conformance.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra conformance.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra conformance~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra conformance.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra formIntersection.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formIntersection.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formIntersection.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formIntersection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formIntersection.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra formSymmetricDifference.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formSymmetricDifference.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formSymmetricDifference.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formSymmetricDifference~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formSymmetricDifference.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra formUnion.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formUnion.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formUnion.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formUnion~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra formUnion.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra intersection.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra intersection.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra intersection.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra intersection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra intersection.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isDisjoint.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isDisjoint.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isDisjoint.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isDisjoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isDisjoint.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isEqualSet.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isEqualSet.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isEqualSet.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isEqualSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isEqualSet.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isStrictSubset.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isStrictSubset.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isStrictSubset.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isStrictSubset~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isStrictSubset.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isStrictSuperset.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isStrictSuperset.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isStrictSuperset.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isStrictSuperset~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isStrictSuperset.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isSubset.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isSubset.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isSubset.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isSubset~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isSubset.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isSuperset.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isSuperset.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isSuperset.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isSuperset~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra isSuperset.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra subtract.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra subtract.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra subtract.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra subtract~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra subtract.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra subtracting.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra subtracting.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra subtracting.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra subtracting~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra subtracting.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra symmetricDifference.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra symmetricDifference.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra symmetricDifference.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra symmetricDifference~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra symmetricDifference.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra union.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra union.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra union.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra union~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+SetAlgebra union.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Sorted Collection APIs.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Sorted Collection APIs.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Sorted Collection APIs.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Sorted Collection APIs~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet+Sorted Collection APIs.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet.Counted.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.Counted.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.Counted.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.Counted~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.Counted.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet.Index.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.Index.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.Index.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.Index~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.Index.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet._UnsafeHandle.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet._UnsafeHandle.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet._UnsafeHandle.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet._UnsafeHandle~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet._UnsafeHandle.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/BitSet/BitSet.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/Shared/Range+Utilities.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/Range+Utilities.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/Range+Utilities.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/Range+Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/Range+Utilities.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/Shared/Slice+Utilities.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/Slice+Utilities.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/Slice+Utilities.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/Slice+Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/Slice+Utilities.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/Shared/UInt+Tricks.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/UInt+Tricks.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/UInt+Tricks.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/UInt+Tricks~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/UInt+Tricks.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/BitCollections/Shared/_Word.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/_Word.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/_Word.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/_Word~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/BitCollections.build/Shared/_Word.swiftdeps"
+  }
+}

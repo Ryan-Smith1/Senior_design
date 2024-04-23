@@ -1,0 +1,4 @@
+module XCTFluent {
+    header "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/XCTFluent.build/XCTFluent-Swift.h"
+    requires objc
+}

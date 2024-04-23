@@ -1,0 +1,461 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/master.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Builder.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Builder.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Builder.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Builder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Builder.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Contents.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Contents.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Contents.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Contents~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Contents.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Debugging.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Debugging.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Debugging.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Debugging~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Debugging.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Index.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Index.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Index.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Index~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Index.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Ingester.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Ingester.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Ingester.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Ingester~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Ingester.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Invariants.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Invariants.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Invariants.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Invariants~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Invariants.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Iterators.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Iterators.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Iterators.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Iterators~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Iterators.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Metrics.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Metrics.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Metrics.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Metrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Metrics.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Summary.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Summary.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Summary.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Summary~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString+Summary.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Basics/BigString.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Append and Insert.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Append and Insert.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Append and Insert.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Append and Insert~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Append and Insert.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Breaks.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Breaks.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Breaks.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Breaks~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Breaks.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Counts.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Counts.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Counts.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Counts~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Counts.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Description.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Description.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Description.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Description~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Description.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Indexing by Characters.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Indexing by Characters.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Indexing by Characters.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Indexing by Characters~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Indexing by Characters.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Indexing by UTF16.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Indexing by UTF16.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Indexing by UTF16.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Indexing by UTF16~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Indexing by UTF16.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+RopeElement.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+RopeElement.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+RopeElement.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+RopeElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+RopeElement.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Splitting.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Splitting.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Splitting.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Splitting~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk+Splitting.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Chunk/BigString+Chunk.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+BidirectionalCollection.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+BidirectionalCollection.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+BidirectionalCollection.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+BidirectionalCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+BidirectionalCollection.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Comparable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Comparable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Comparable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Comparable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Comparable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+CustomDebugStringConvertible.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+CustomDebugStringConvertible.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+CustomDebugStringConvertible.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+CustomDebugStringConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+CustomDebugStringConvertible.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+CustomStringConvertible.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+CustomStringConvertible.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+CustomStringConvertible.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+CustomStringConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+CustomStringConvertible.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Equatable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Equatable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Equatable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Equatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Equatable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+ExpressibleByStringLiteral.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+ExpressibleByStringLiteral.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+ExpressibleByStringLiteral.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+ExpressibleByStringLiteral~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+ExpressibleByStringLiteral.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Hashing.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Hashing.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Hashing.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Hashing~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Hashing.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+LosslessStringConvertible.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+LosslessStringConvertible.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+LosslessStringConvertible.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+LosslessStringConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+LosslessStringConvertible.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+RangeReplaceableCollection.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+RangeReplaceableCollection.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+RangeReplaceableCollection.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+RangeReplaceableCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+RangeReplaceableCollection.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Sequence.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Sequence.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Sequence.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Sequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+Sequence.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+TextOutputStream.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+TextOutputStream.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+TextOutputStream.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+TextOutputStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Conformances/BigString+TextOutputStream.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Append.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Append.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Append.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Append~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Append.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Initializers.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Initializers.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Initializers.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Initializers~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Initializers.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Insert.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Insert.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Insert.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Insert~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Insert.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Managing Breaks.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Managing Breaks.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Managing Breaks.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Managing Breaks~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Managing Breaks.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+RemoveSubrange.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+RemoveSubrange.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+RemoveSubrange.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+RemoveSubrange~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+RemoveSubrange.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+ReplaceSubrange.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+ReplaceSubrange.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+ReplaceSubrange.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+ReplaceSubrange~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+ReplaceSubrange.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Split.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Split.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Split.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Split~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/BigString+Split.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/Range+BigString.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/Range+BigString.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/Range+BigString.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/Range+BigString~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Operations/Range+BigString.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UTF16View.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UTF16View.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UTF16View.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UTF16View~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UTF16View.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UTF8View.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UTF8View.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UTF8View.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UTF8View~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UTF8View.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UnicodeScalarView.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UnicodeScalarView.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UnicodeScalarView.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UnicodeScalarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigString+UnicodeScalarView.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UTF16View.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UTF16View.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UTF16View.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UTF16View~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UTF16View.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UTF8View.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UTF8View.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UTF8View.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UTF8View~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UTF8View.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UnicodeScalarView.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UnicodeScalarView.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UnicodeScalarView.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UnicodeScalarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring+UnicodeScalarView.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/BigString/Views/BigSubstring.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Builder.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Builder.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Builder.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Builder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Builder.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Debugging.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Debugging.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Debugging.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Debugging~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Debugging.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Invariants.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Invariants.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Invariants.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Invariants~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+Invariants.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_Node.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_Node.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_Node.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_Node~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_Node.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_Storage.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_Storage.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_Storage.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_Storage~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_Storage.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_UnmanagedLeaf.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_UnmanagedLeaf.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_UnmanagedLeaf.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_UnmanagedLeaf~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_UnmanagedLeaf.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_UnsafeHandle.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_UnsafeHandle.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_UnsafeHandle.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_UnsafeHandle~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope+_UnsafeHandle.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/Rope.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeElement.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeElement.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeElement.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeElement.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeMetric.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeMetric.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeMetric.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeMetric~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeMetric.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeSummary.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeSummary.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeSummary.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeSummary~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/RopeSummary.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopeItem.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopeItem.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopeItem.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopeItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopeItem.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopePath.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopePath.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopePath.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopePath~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopePath.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopeVersion.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopeVersion.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopeVersion.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopeVersion~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Basics/_RopeVersion.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Collection.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Collection.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Collection.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Collection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Collection.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Index.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Index.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Index.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Index~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Index.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Sequence.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Sequence.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Sequence.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Sequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Conformances/Rope+Sequence.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Append.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Append.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Append.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Append~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Append.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Extract.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Extract.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Extract.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Extract~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Extract.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Find.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Find.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Find.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Find~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Find.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+ForEachWhile.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+ForEachWhile.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+ForEachWhile.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+ForEachWhile~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+ForEachWhile.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Insert.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Insert.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Insert.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Insert~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Insert.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Join.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Join.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Join.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Join~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Join.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+MutatingForEach.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+MutatingForEach.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+MutatingForEach.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+MutatingForEach~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+MutatingForEach.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Remove.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Remove.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Remove.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Remove~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Remove.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+RemoveSubrange.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+RemoveSubrange.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+RemoveSubrange.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+RemoveSubrange~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+RemoveSubrange.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Split.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Split.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Split.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Split~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Rope/Operations/Rope+Split.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/Optional Utilities.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/Optional Utilities.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/Optional Utilities.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/Optional Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/Optional Utilities.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/String Utilities.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/String Utilities.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/String Utilities.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/String Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/String Utilities.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/String.Index+ABI.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/String.Index+ABI.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/String.Index+ABI.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/String.Index+ABI~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/String.Index+ABI.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/_CharacterRecognizer.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/_CharacterRecognizer.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/_CharacterRecognizer.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/_CharacterRecognizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_RopeModule.build/Utilities/_CharacterRecognizer.swiftdeps"
+  }
+}

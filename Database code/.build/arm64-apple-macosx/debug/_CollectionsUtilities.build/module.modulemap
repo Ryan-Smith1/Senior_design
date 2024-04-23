@@ -1,0 +1,4 @@
+module _CollectionsUtilities {
+    header "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/_CollectionsUtilities.build/_CollectionsUtilities-Swift.h"
+    requires objc
+}

@@ -1,0 +1,173 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/master.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Activity/ActivityBar.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityBar.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityBar.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityBar.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Activity/ActivityIndicator.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicator.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicator.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicator~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicator.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Activity/ActivityIndicatorRenderer.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicatorRenderer.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicatorRenderer.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicatorRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicatorRenderer.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Activity/ActivityIndicatorState.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicatorState.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicatorState.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicatorState~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ActivityIndicatorState.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Activity/CustomActivity.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/CustomActivity.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/CustomActivity.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/CustomActivity~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/CustomActivity.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Activity/LoadingBar.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/LoadingBar.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/LoadingBar.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/LoadingBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/LoadingBar.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Activity/ProgressBar.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ProgressBar.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ProgressBar.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ProgressBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Activity/ProgressBar.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Clear/Console+Clear.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/Console+Clear.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/Console+Clear.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/Console+Clear~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/Console+Clear.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Clear/Console+Ephemeral.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/Console+Ephemeral.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/Console+Ephemeral.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/Console+Ephemeral~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/Console+Ephemeral.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Clear/ConsoleClear.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/ConsoleClear.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/ConsoleClear.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/ConsoleClear~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Clear/ConsoleClear.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Input/Console+Ask.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Ask.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Ask.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Ask~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Ask.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Input/Console+Choose.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Choose.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Choose.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Choose~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Choose.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Input/Console+Confirm.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Confirm.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Confirm.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Confirm~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Confirm.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Input/Console+Input.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Input.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Input.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Input~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Input/Console+Input.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Output/Console+Center.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Center.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Center.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Center~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Center.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Output/Console+Output.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Output.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Output.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Output~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Output.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Output/Console+Wait.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Wait.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Wait.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Wait~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/Console+Wait.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Output/ConsoleColor.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleColor.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleColor.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleColor.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Output/ConsoleStyle.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleStyle.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleStyle.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleStyle.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Output/ConsoleText.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleText.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleText.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleText~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleText.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Output/ConsoleTextFragment.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleTextFragment.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleTextFragment.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleTextFragment~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Output/ConsoleTextFragment.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Terminal/ANSI.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/ANSI.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/ANSI.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/ANSI~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/ANSI.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Terminal/Console.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/Console.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/Console.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/Console~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/Console.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Terminal/Terminal.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/Terminal.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/Terminal.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/Terminal~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/Terminal.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Terminal/readpassphrase_linux.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/readpassphrase_linux.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/readpassphrase_linux.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/readpassphrase_linux~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Terminal/readpassphrase_linux.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Utilities/AnySendableHashable.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/AnySendableHashable.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/AnySendableHashable.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/AnySendableHashable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/AnySendableHashable.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Utilities/ConsoleLogger.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/ConsoleLogger.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/ConsoleLogger.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/ConsoleLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/ConsoleLogger.swiftdeps"
+  },
+  "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/checkouts/console-kit/Sources/ConsoleKitTerminal/Utilities/LoggerFragment.swift": {
+    "dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/LoggerFragment.d",
+    "object": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/LoggerFragment.swift.o",
+    "swiftmodule": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/LoggerFragment~partial.swiftmodule",
+    "swift-dependencies": "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/Utilities/LoggerFragment.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module RoutingKit {
+    header "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/RoutingKit.build/RoutingKit-Swift.h"
+    requires objc
+}

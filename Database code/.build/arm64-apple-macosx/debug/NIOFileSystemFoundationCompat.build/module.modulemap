@@ -1,0 +1,4 @@
+module NIOFileSystemFoundationCompat {
+    header "/Users/ryansmith/Documents/senior design/database/Demo adaption/Database code/.build/arm64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/NIOFileSystemFoundationCompat-Swift.h"
+    requires objc
+}
